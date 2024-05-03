@@ -1,54 +1,54 @@
-<img align="center" src="https://raw.githubusercontent.com/saviomartin/saviomartin/master/assets/banner.gif"/>
+<h1 align="center">Hi 👋, I'm SanzMD</h1>
+<h3 align="center">I Newbie Developer</h3>
 
-<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/about.png?raw=true"/>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=eggpm2&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/eggpm2)
+<!--![readmebox](https://svgshare.com/i/104e.svg)-->
 
-- Im SanzMD
-- Only Newbie Dont Bully Me
-- See My Repository For Tools Free
-- My WhatsApp Number : 6282174453171
+<div>
+  <h2 align="center"> 😼 ~ ABOUT ME ~ 😼 </h2>
+</div>
+<div align="center">
+  <img src="https://telegra.ph/file/e8b436c5f89588f05ed2b.jpg" align="right" width="20%">
+</div>
 
-<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/connect.png?raw=true"/>
+- 🌱 I’m currently learning **Nodejs, ExpressJs, HTML, CSS**
 
-- <a href="https://www.instagram.com/sanzmd23"><img src="https://img.shields.io/badge/instagram%20@teen_developer-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-- <a href="https://www.instagram.com/sanzmd23/"><img src="https://img.shields.io/badge/facebook%20@saviomartin.1694-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-- <a href="https://www.instagram.com/sanzmd23/"><img src="https://img.shields.io/badge/twitter%20@saviomartin3-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-- <a href="https://savio.works/"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20savio.works-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
+- 👯 Collaborate with me on **WhatsApp**
 
-<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/skills.png?raw=true">
+- 🔭 I’m currently working on **My Beautiful House**
 
-![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
-![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
-![Sass](https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass&logoColor=white&labelColor=8E2DE2)
-![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
+- ⚡ Fun fact: I really like **copying someone's code**
+
+- 📫 How to reach me **sanzmdofc@gmail.com**
+
 <br>
-![bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8E2DE2)
-![materializecss](https://img.shields.io/badge/Materialize%20css-grey?style=for-the-badge&logo=google&logoColor=white&labelColor=8E2DE2)
-![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=8E2DE2)
-![php](https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=8E2DE2)
-<br>
-![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=8E2DE2)
-![firebase](https://img.shields.io/badge/-firebase-grey?style=for-the-badge&logo=firebase&logoColor=white&labelColor=8E2DE2)
-![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
-![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
-<br>
-![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
-![jquery](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=8E2DE2)
-![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
-![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
+<h2 align="center"> 📝 ~ CONTACT ME ~ 📝 </h2>
 
-
-<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/git.png?raw=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=saviomartin&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saviomartin&theme=radical&title_color=8E2DE2&text_color=fff)
-
-<img src="https://github.com/saviomartin/saviomartin/blob/master/assets/repo.png?raw=true">
-
-![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=sprintnote&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
-![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=covid-chatbot&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
+<p align="center">Here are some my <br>
+most used social media</p>
 
 <p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=saviomartin" id="counter">
+  <a href="https://www.instagram.com/sanzmd23" target="_blank"><img src="https://img.shields.io/badge/-SanzMD-purple?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.tiktok.com/@sanzmd23" target="_blank"><img src="https://img.shields.io/badge/-SanzMD-blue?&style=for-the-badge&logo=Tiktok&logoColor=white"/></a>  
+  <a href="https://wa.me/6282174453171" target="_blank"><img src="https://img.shields.io/badge/-SanzMD-</>-ocean?&style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
 </p>
-From [SanzMD](https://github:eggpm2)
+</div>
+<br>
+<h2 align="center"> 📈 ~ Github Stats ~ 📈 </h2>
+
+<p align="center">
+  <a href="https://github.com/eggpm2"><img src="https://github-readme-stats.vercel.app/api?username=eggpm2&theme=tokyonight&show_icons=true" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/eggpm2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eggpm2&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
+</p>
+
+<!--<p align="center">
+  <a href="https://github.com/eggpm2"><img src="https://github-profile-trophy.vercel.app/?username=eggpm2&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+</p>-->
+
+<!---
+SanzMD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
